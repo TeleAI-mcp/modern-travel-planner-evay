@@ -1,2 +1,3 @@
-# modern-travel-planner-evay
+# Modern Travel Planner Evay
+
 A repository to test GitHub automation for issue management.
